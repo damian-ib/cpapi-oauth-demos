@@ -1,0 +1,9 @@
+{
+    "realm": "limited_poa",
+    "encryption_key_fp": "path-to-your-private-encryption-file",
+    "signature_key_fp": "path-to-your-private-signature-file",
+    "consumer_key": "your-consumer-key",
+    "dh_prime": "your-dh-prime-in-hexadecimal",
+    "access_token": "your-access-token-from-self-service-portal",
+    "access_token_secret": "your-access-token-secret-from-self-service-portal"
+}
