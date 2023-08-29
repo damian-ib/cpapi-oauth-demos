@@ -50,9 +50,9 @@ def main(config_data: dict, live_session_token: str = None, live_session_token_e
     session = oauth_requests.OAuthSession(config_data, live_session_token, live_session_token_expiration)
     session.request_live_session_token()
     session.init_brokerage_session()
-    # non_brokerage_call_operations(session)
-    # iserver_operations(session)
-    websocket_demo(session)
+    non_brokerage_call_operations(session)
+    iserver_operations(session)
+    # websocket_demo(session)
     
 if __name__=="__main__":
     CONFIG = "config.json"
