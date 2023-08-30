@@ -1,9 +1,0 @@
-{
-    "realm": "test_realm",
-    "encryption_key_fp": "./test_keys/private_encryption.pem",
-    "signature_key_fp": "./test_keys/private_signature.pem",
-    "consumer_key": "TESTCONS",
-    "dh_prime": "f51d7ab737a452668fd8b5eec12fcdc3c01a0744d93db2e9b1dc335bd2551ec67e11becc60c33a73497a0f7c086d87e45781ada35b7af72708f31ae221347a1c6517575a347df83a321d05450547ee13a8182280ed81423002aa6337b48a251d840bfdabe8d41b8109284933a6c33bc6652ea9c7a5fd6b4945b7b39f1d951ae19b9192061e2f9de84768b67c425258724cdb96975917cabdea87e7e0bc72b01a331d06f2f34229a5ec742b399fcffa510bf6b8f9b5bf9858f058371a49aa4f950f7fbfb3f47710af34baa83fff1b467d38d0e6b1b0a2d117f178cf930d7dfdcc8f6755a2229d48492a967f493041121e382b9e87ca1368c09f54e6352d909f2b",
-    "access_token": "access-token-from-web-demo",
-    "access_token_secret": "access-token-secret-from-web-demo"
-}
