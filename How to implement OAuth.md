@@ -581,6 +581,7 @@ oauth_signature="Yb01...rWBA%3D%3D", \
 oauth_signature_method="RSA-SHA256", \
 ouath_timestamp="1473793702", \
 oauth_token="25ebcc75204da80b73f4", \
+realm="test_realm", \
 oauth_verifier="61c107d4cf34ac6d9f2b"
 Content-Length: 0
 Host: localhost:
@@ -626,6 +627,7 @@ oauth_nonce="12xdzfg", \
 oauth_signature="KzaCo...eBUw%3D%3D", \
 oauth_signature_method="RSA-SHA256", \
 ouath_timestamp="1473793703", \
+realm="test_realm", \
 oauth_token="6f531f8fd316915af53f"
 Content-Length: 0
 Host: localhost:
